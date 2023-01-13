@@ -1,6 +1,6 @@
 // docs/.vuepress/config.js
 module.exports = {
-  base:'',
+  base:'/',
   title: "黄立贤的Blog",
   description: "黄立贤的思考和笔记",
   markdown: {
