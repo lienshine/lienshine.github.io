@@ -22,9 +22,9 @@ themeConfig: {
 //     ]
 
 },
-plugins: [
-    ["vuepress-plugin-auto-sidebar", {
-      // options
-    }]
-  ]
+// plugins: [
+//     ["vuepress-plugin-auto-sidebar", {
+//       // options
+//     }]
+//   ]
 };
