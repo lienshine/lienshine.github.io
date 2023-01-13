@@ -1,0 +1,21 @@
+{
+  "name": "lienblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "nav": "vuepress nav docs -f"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
+  },
+  "dependencies": {
+    "markdown-it": "^13.0.1"
+  }
+}
